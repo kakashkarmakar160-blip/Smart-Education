@@ -1,0 +1,27 @@
+[
+  {
+    "id": "bangla",
+    "name": "বাংলা",
+    "english": "Bangla"
+  },
+  {
+    "id": "english",
+    "name": "ইংরেজি",
+    "english": "English"
+  },
+  {
+    "id": "mathematics",
+    "name": "গণিত",
+    "english": "Mathematics"
+  },
+  {
+    "id": "science",
+    "name": "বিজ্ঞান",
+    "english": "Science"
+  },
+  {
+    "id": "commercial-law",
+    "name": "Commercial Law",
+    "english": "Commercial Law"
+  }
+]

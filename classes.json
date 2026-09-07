@@ -1,0 +1,54 @@
+[
+  {
+    "id": "class5",
+    "name": "Class 5",
+    "display": "Class 5",
+    "subjects": [
+      "bangla",
+      "english",
+      "mathematics",
+      "science"
+    ]
+  },
+  {
+    "id": "class6",
+    "name": "Class 6",
+    "display": "Class 6",
+    "subjects": [
+      "bangla",
+      "english",
+      "mathematics",
+      "science"
+    ]
+  },
+  {
+    "id": "class7",
+    "name": "Class 7",
+    "display": "Class 7",
+    "subjects": [
+      "bangla",
+      "english",
+      "mathematics",
+      "science"
+    ]
+  },
+  {
+    "id": "class8",
+    "name": "Class 8",
+    "display": "Class 8",
+    "subjects": [
+      "bangla",
+      "english",
+      "mathematics",
+      "science"
+    ]
+  },
+  {
+    "id": "class12",
+    "name": "Class 12",
+    "display": "Class 12",
+    "subjects": [
+      "commercial-law"
+    ]
+  }
+]

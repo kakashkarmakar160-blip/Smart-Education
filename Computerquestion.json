@@ -1,0 +1,579 @@
+{
+  "questions": [
+    {
+      "id": "cmath-001",
+      "type": "math",
+      "subject": "Mathematics",
+      "class": "12",
+      "semester": "3",
+      "question": "If A's Old Ratio is 1/2 and New Ratio is 1/3, calculate A's sacrifice.",
+      "options": [
+        "1/6",
+        "1/3",
+        "1/2",
+        "2/3"
+      ],
+      "answer": "1/6",
+      "solution": "Sacrifice = Old Ratio − New Ratio = 1/2 − 1/3 = 1/6.",
+      "marks": 1,
+      "topic": ""
+    },
+    {
+      "id": "cmath-002",
+      "type": "math",
+      "subject": "Mathematics",
+      "class": "12",
+      "semester": "3",
+      "question": "Solve: 2x + 5 = 15.",
+      "options": [
+        "3",
+        "5",
+        "7",
+        "10"
+      ],
+      "answer": "5",
+      "solution": "2x + 5 = 15 → 2x = 10 → x = 5.",
+      "marks": 1,
+      "topic": ""
+    },
+    {
+      "id": "cbeng-001",
+      "type": "normal",
+      "subject": "Bengali",
+      "class": "12",
+      "semester": "3",
+      "question": "‘বিদ্রোহী’ কবিতার কবি কে?",
+      "options": [
+        "রবীন্দ্রনাথ ঠাকুর",
+        "কাজী নজরুল ইসলাম",
+        "জীবনানন্দ দাশ",
+        "সুকান্ত ভট্টাচার্য"
+      ],
+      "answer": "কাজী নজরুল ইসলাম",
+      "marks": 1,
+      "topic": ""
+    },
+    {
+      "id": "cbeng-002",
+      "type": "normal",
+      "subject": "Bengali",
+      "class": "12",
+      "semester": "3",
+      "question": "‘বিদ্রোহী’ কবিতায় কবি প্রধানত কী প্রকাশ করেছেন?",
+      "options": [
+        "প্রকৃতির সৌন্দর্য",
+        "বিদ্রোহী চেতনা",
+        "শোকের অনুভূতি",
+        "প্রেমের অনুভূতি"
+      ],
+      "answer": "বিদ্রোহী চেতনা",
+      "marks": 1,
+      "topic": ""
+    },
+    {
+      "id": "cbeng-003",
+      "type": "normal",
+      "subject": "Bengali",
+      "class": "12",
+      "semester": "3",
+      "question": "কাজী নজরুল ইসলামকে কোন উপাধিতে অভিহিত করা হয়?",
+      "options": [
+        "বিশ্বকবি",
+        "বিদ্রোহী কবি",
+        "পল্লীকবি",
+        "কথাশিল্পী"
+      ],
+      "answer": "বিদ্রোহী কবি",
+      "marks": 1,
+      "topic": ""
+    },
+    {
+      "id": "cbeng-004",
+      "type": "normal",
+      "subject": "Bengali",
+      "class": "12",
+      "semester": "3",
+      "question": "‘বিদ্রোহী’ কবিতার মূল সুর কোনটি?",
+      "options": [
+        "অন্যায়ের বিরুদ্ধে প্রতিবাদ",
+        "নির্জনতার বর্ণনা",
+        "গ্রামবাংলার ছবি",
+        "ঐতিহাসিক কাহিনি"
+      ],
+      "answer": "অন্যায়ের বিরুদ্ধে প্রতিবাদ",
+      "marks": 1,
+      "topic": ""
+    },
+    {
+      "id": "cbeng-005",
+      "type": "normal",
+      "subject": "Bengali",
+      "class": "12",
+      "semester": "3",
+      "question": "বাংলা সাহিত্যে নজরুলের পরিচিতি কী হিসেবে সর্বাধিক প্রচলিত?",
+      "options": [
+        "বিদ্রোহী কবি",
+        "ছন্দের কবি",
+        "প্রকৃতির কবি",
+        "রোমান্টিক কবি"
+      ],
+      "answer": "বিদ্রোহী কবি",
+      "marks": 1,
+      "topic": ""
+    },
+    {
+      "id": "cacc-001",
+      "type": "normal",
+      "subject": "Accountancy",
+      "class": "12",
+      "semester": "3",
+      "question": "Goodwill is generally treated as which type of asset?",
+      "options": [
+        "Tangible asset",
+        "Fictitious asset",
+        "Intangible asset",
+        "Current liability"
+      ],
+      "answer": "Intangible asset",
+      "marks": 1,
+      "topic": ""
+    },
+    {
+      "id": "cacc-002",
+      "type": "normal",
+      "subject": "Accountancy",
+      "class": "12",
+      "semester": "3",
+      "question": "Which account is prepared to record the revaluation of assets and liabilities?",
+      "options": [
+        "Capital Account",
+        "Revaluation Account",
+        "Cash Account",
+        "Suspense Account"
+      ],
+      "answer": "Revaluation Account",
+      "marks": 1,
+      "topic": ""
+    },
+    {
+      "id": "cacc-003",
+      "type": "normal",
+      "subject": "Accountancy",
+      "class": "12",
+      "semester": "3",
+      "question": "When a new partner is admitted, the old partners generally sacrifice their share in favour of the new partner.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "marks": 1,
+      "topic": ""
+    },
+    {
+      "id": "cacc-004",
+      "type": "normal",
+      "subject": "Accountancy",
+      "class": "12",
+      "semester": "3",
+      "question": "Sacrificing ratio is calculated as:",
+      "options": [
+        "New Ratio − Old Ratio",
+        "Old Ratio − New Ratio",
+        "Old Ratio + New Ratio",
+        "New Ratio ÷ Old Ratio"
+      ],
+      "answer": "Old Ratio − New Ratio",
+      "marks": 1,
+      "topic": ""
+    },
+    {
+      "id": "cacc-005",
+      "type": "normal",
+      "subject": "Accountancy",
+      "class": "12",
+      "semester": "3",
+      "question": "The excess of the amount paid over the net assets acquired in a business combination is called ______.",
+      "options": [
+        "Capital",
+        "Goodwill",
+        "Reserve",
+        "Drawings"
+      ],
+      "answer": "Goodwill",
+      "marks": 1,
+      "topic": ""
+    },
+    {
+      "id": "cl-001",
+      "type": "normal",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "law-of-partnership",
+      "question": "Partnership কী?",
+      "options": [],
+      "answer": "দুই বা ততোধিক ব্যক্তির মধ্যে চুক্তির ভিত্তিতে ব্যবসা পরিচালনা ও লাভ ভাগাভাগির সম্পর্ককে Partnership বলে।",
+      "marks": 1
+    },
+    {
+      "id": "cl-002",
+      "type": "normal",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "law-of-partnership",
+      "question": "Partnership কোন আইনের অধীনে পরিচালিত হয়?",
+      "options": [],
+      "answer": "Indian Partnership Act, 1932।",
+      "marks": 1
+    },
+    {
+      "id": "cl-003",
+      "type": "normal",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "law-of-partnership",
+      "question": "Partner কাকে বলে?",
+      "options": [],
+      "answer": "যে ব্যক্তি Partnership Firm-এর সঙ্গে Partnership Agreement-এ যুক্ত থাকে তাকে Partner বলে।",
+      "marks": 1
+    },
+    {
+      "id": "cl-004",
+      "type": "normal",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "law-of-partnership",
+      "question": "Firm কী?",
+      "options": [],
+      "answer": "যে সকল ব্যক্তি Partnership-এ যুক্ত হয়ে ব্যবসা করে তাদের সমষ্টিকে Firm বলে।",
+      "marks": 1
+    },
+    {
+      "id": "cl-005",
+      "type": "normal",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "law-of-partnership",
+      "question": "Partnership-এর মূল ভিত্তি কী?",
+      "options": [],
+      "answer": "Agreement বা চুক্তি।",
+      "marks": 1
+    },
+    {
+      "id": "cl-006",
+      "type": "normal",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "law-of-partnership",
+      "question": "Partnership কি Status থেকে সৃষ্টি হয়?",
+      "options": [],
+      "answer": "না, Contract বা Agreement থেকে সৃষ্টি হয়।",
+      "marks": 1
+    },
+    {
+      "id": "cl-007",
+      "type": "normal",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "law-of-partnership",
+      "question": "Partnership-এর একটি অপরিহার্য উপাদান কী?",
+      "options": [],
+      "answer": "Mutual Agency।",
+      "marks": 1
+    },
+    {
+      "id": "cl-008",
+      "type": "normal",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "law-of-partnership",
+      "question": "Mutual Agency বলতে কী বোঝায়?",
+      "options": [],
+      "answer": "প্রত্যেক Partner Firm-এর Agent এবং Principal উভয়ই।",
+      "marks": 1
+    },
+    {
+      "id": "cl-009",
+      "type": "normal",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "law-of-partnership",
+      "question": "Partnership-এর জন্য ন্যূনতম কতজন ব্যক্তি প্রয়োজন?",
+      "options": [],
+      "answer": "2 জন।",
+      "marks": 1
+    },
+    {
+      "id": "cl-010",
+      "type": "normal",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "law-of-partnership",
+      "question": "Partnership-এর ক্ষেত্রে Partners-এর মধ্যে কী থাকতে হয়?",
+      "options": [],
+      "answer": "Agreement।",
+      "marks": 1
+    },
+    {
+      "id": "cl-011",
+      "type": "normal",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "law-of-partnership",
+      "question": "Partnership-এর উদ্দেশ্য কী?",
+      "options": [],
+      "answer": "Business করা এবং Profit ভাগ করে নেওয়া।",
+      "marks": 1
+    },
+    {
+      "id": "cl-012",
+      "type": "normal",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "law-of-partnership",
+      "question": "Partnership Firm-এর Separate Legal Entity আছে কি?",
+      "options": [],
+      "answer": "সাধারণভাবে নেই।",
+      "marks": 1
+    },
+    {
+      "id": "cl-013",
+      "type": "normal",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "law-of-partnership",
+      "question": "Partnership-এ Partner কী?",
+      "options": [],
+      "answer": "Principal এবং Agent উভয়ই।",
+      "marks": 1
+    },
+    {
+      "id": "cl-014",
+      "type": "normal",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "law-of-partnership",
+      "question": "Partnership-এর সবচেয়ে গুরুত্বপূর্ণ বৈশিষ্ট্য কী?",
+      "options": [],
+      "answer": "Mutual Agency।",
+      "marks": 1
+    },
+    {
+      "id": "cl-015",
+      "type": "normal",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "law-of-partnership",
+      "question": "Partnership-এর অস্তিত্ব কোন বিষয়ের উপর নির্ভরশীল?",
+      "options": [],
+      "answer": "Agreement-এর উপর।",
+      "marks": 1
+    }
+  ],
+  "subjectImages": {
+    "Mathematics": "assets/subjects/Mathematics.jpg",
+    "Bengali": "assets/subjects/Bengali.jpg",
+    "Accountancy": "assets/subjects/Accountancy.jpg",
+    "English": "assets/subjects/English.jpg",
+    "Computer": "assets/subjects/Computer.jpg",
+    "Computer Science": "assets/subjects/Computer.jpg",
+    "COMMERCIAL LAW": "assets/subjects/commercial-law/law-of-partnership.jpg"
+  },
+  "topicBoxes": [
+    {
+      "id": "law-of-partnership",
+      "title": "LAW OF PARTNERSHIP",
+      "questionStart": 1,
+      "questionEnd": 15,
+      "image": "assets/subjects/commercial-law/law-of-partnership.jpg",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3"
+    },
+    {
+      "id": "partnership-deed",
+      "title": "Partnership Deed",
+      "questionStart": 16,
+      "questionEnd": 25,
+      "image": "assets/subjects/commercial-law/partnership-deed.jpg",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3"
+    },
+    {
+      "id": "registration-of-firm",
+      "title": "Registration of Firm",
+      "questionStart": 26,
+      "questionEnd": 35,
+      "image": "assets/subjects/commercial-law/registration-of-firm.jpg",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3"
+    },
+    {
+      "id": "rights-duties-of-partners",
+      "title": "Rights & Duties of Partners",
+      "questionStart": 36,
+      "questionEnd": 45,
+      "image": "assets/subjects/commercial-law/rights-duties-of-partners.jpg",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3"
+    },
+    {
+      "id": "authority-of-partner",
+      "title": "Authority of Partner",
+      "questionStart": 46,
+      "questionEnd": 55,
+      "image": "assets/subjects/commercial-law/authority-of-partner.jpg",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3"
+    },
+    {
+      "id": "liability-of-partners",
+      "title": "Liability of Partners",
+      "questionStart": 56,
+      "questionEnd": 60,
+      "image": "assets/subjects/commercial-law/liability-of-partners.jpg",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3"
+    },
+    {
+      "id": "minor-in-partnership",
+      "title": "Minor in Partnership",
+      "questionStart": 61,
+      "questionEnd": 68,
+      "image": "assets/subjects/commercial-law/minor-in-partnership.jpg",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3"
+    },
+    {
+      "id": "company-law",
+      "title": "PART B — COMPANY LAW",
+      "questionStart": 69,
+      "questionEnd": 78,
+      "image": "assets/subjects/commercial-law/company-law.jpg",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3"
+    },
+    {
+      "id": "types-of-company",
+      "title": "Types of Company",
+      "questionStart": 79,
+      "questionEnd": 90,
+      "image": "assets/subjects/commercial-law/types-of-company.jpg",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3"
+    },
+    {
+      "id": "incorporation-of-company",
+      "title": "Incorporation of Company",
+      "questionStart": 91,
+      "questionEnd": 100,
+      "image": "assets/subjects/commercial-law/incorporation-of-company.jpg",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3"
+    },
+    {
+      "id": "most-important-revision",
+      "title": "Most Important Revision Questions",
+      "questionStart": 101,
+      "questionEnd": 110,
+      "image": "assets/subjects/commercial-law/most-important-revision.jpg",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3"
+    },
+    {
+      "id": "prospectus",
+      "title": "Prospectus",
+      "questionStart": 111,
+      "questionEnd": 120,
+      "image": "assets/subjects/commercial-law/prospectus.jpg",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3"
+    },
+    {
+      "id": "company-accounts",
+      "title": "Company Accounts",
+      "questionStart": 121,
+      "questionEnd": 130,
+      "image": "assets/subjects/commercial-law/company-accounts.jpg",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3"
+    },
+    {
+      "id": "moa-vs-aoa",
+      "title": "MOA vs AOA",
+      "questionStart": 131,
+      "questionEnd": 140,
+      "image": "assets/subjects/commercial-law/moa-vs-aoa.jpg",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3"
+    },
+    {
+      "id": "company-classification",
+      "title": "Company Classification",
+      "questionStart": 141,
+      "questionEnd": 150,
+      "image": "assets/subjects/commercial-law/company-classification.jpg",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3"
+    },
+    {
+      "id": "application-concept-vvv",
+      "title": "Application/Concept-Based V.V.V.",
+      "questionStart": 151,
+      "questionEnd": 160,
+      "image": "assets/subjects/commercial-law/application-concept-vvv.jpg",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3"
+    },
+    {
+      "id": "prospectus-incorporation-vvv",
+      "title": "Prospectus + Incorporation V.V.V.",
+      "questionStart": 161,
+      "questionEnd": 170,
+      "image": "assets/subjects/commercial-law/prospectus-incorporation-vvv.jpg",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3"
+    },
+    {
+      "id": "last-30-vvv",
+      "title": "শেষ 30টি — একদম V.V.V.",
+      "questionStart": 171,
+      "questionEnd": 200,
+      "image": "assets/subjects/commercial-law/last-30-vvv.jpg",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3"
+    }
+  ]
+}

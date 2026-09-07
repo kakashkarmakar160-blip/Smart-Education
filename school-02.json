@@ -1,0 +1,86 @@
+{
+  "id": "class12-commercial-law-school-02-set-3",
+  "class": "class12",
+  "class_name": "Class 12",
+  "subject": "commercial-law",
+  "subject_name": "Commercial Law",
+  "school_id": "school-02",
+  "school_name": "Smart Academy School",
+  "set_number": 3,
+  "title": "Model Question Set-3",
+  "language": "bn",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "Acceptance হতে হবে—",
+      "options": [
+        "নিরঙ্কুশ ও নিঃশর্ত",
+        "শর্তযুক্ত",
+        "গোপন",
+        "অসম্পূর্ণ"
+      ],
+      "answer": "নিরঙ্কুশ ও নিঃশর্ত",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Consideration সাধারণত কার কাছ থেকে আসতে পারে?",
+      "options": [
+        "Promisee বা অন্য ব্যক্তি, প্রযোজ্য আইনি নিয়ম অনুযায়ী",
+        "শুধু আদালত",
+        "শুধু সরকার",
+        "কেউ নয়"
+      ],
+      "answer": "Promisee বা অন্য ব্যক্তি, প্রযোজ্য আইনি নিয়ম অনুযায়ী",
+      "marks": 1
+    },
+    {
+      "type": "fill_blank",
+      "question": "চুক্তি আইন দ্বারা ____ হতে হয়।",
+      "answer": "বলবৎযোগ্য",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "জবরদস্তি (coercion) মুক্ত সম্মতিকে প্রভাবিত করতে পারে।",
+      "answer": "সত্য",
+      "marks": 1
+    },
+    {
+      "type": "short_answer",
+      "question": "Free consent বলতে কী বোঝো?",
+      "answer": "জবরদস্তি, undue influence, fraud, misrepresentation বা mistake-এর দ্বারা প্রভাবিত নয় এমন সম্মতিকে free consent বলে।",
+      "marks": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Misrepresentation-এর ফলে কী হতে পারে?",
+      "options": [
+        "চুক্তি বাতিলের অধিকার",
+        "সব ক্ষেত্রে কারাদণ্ড",
+        "কোনো প্রভাব নেই",
+        "শুধু কর বৃদ্ধি"
+      ],
+      "answer": "চুক্তি বাতিলের অধিকার",
+      "marks": 1
+    },
+    {
+      "type": "short_answer",
+      "question": "Void agreement বলতে কী বোঝায়?",
+      "answer": "যে agreement আইন দ্বারা বলবৎযোগ্য নয় তাকে void agreement বলে।",
+      "marks": 2
+    },
+    {
+      "type": "mcq",
+      "question": "চুক্তি ভঙ্গ হলে ক্ষতিপূরণের উদ্দেশ্য কী?",
+      "options": [
+        "ক্ষতিগ্রস্ত পক্ষকে আর্থিকভাবে প্রতিকার দেওয়া",
+        "দোষীকে পুরস্কার দেওয়া",
+        "কর কমানো",
+        "চুক্তি গোপন করা"
+      ],
+      "answer": "ক্ষতিগ্রস্ত পক্ষকে আর্থিকভাবে প্রতিকার দেওয়া",
+      "marks": 1
+    }
+  ]
+}

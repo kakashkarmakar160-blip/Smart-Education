@@ -1,0 +1,80 @@
+{
+  "id": "class12-commercial-law-school-03-set-3",
+  "class": "class12",
+  "class_name": "Class 12",
+  "subject": "commercial-law",
+  "subject_name": "Commercial Law",
+  "school_id": "school-03",
+  "school_name": "Knowledge Point School",
+  "set_number": 3,
+  "title": "Model Question Set-3",
+  "language": "bn",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "Agency-তে agent কার পক্ষে কাজ করে?",
+      "options": [
+        "Principal-এর পক্ষে",
+        "শুধু নিজের পক্ষে",
+        "আদালতের পক্ষে",
+        "ক্রেতার পক্ষে সবসময়"
+      ],
+      "answer": "Principal-এর পক্ষে",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Sale of goods-এ price কী?",
+      "options": [
+        "পণ্যের অর্থমূল্য",
+        "শুধু কর",
+        "শুধু লাভ",
+        "পণ্যের নাম"
+      ],
+      "answer": "পণ্যের অর্থমূল্য",
+      "marks": 1
+    },
+    {
+      "type": "fill_blank",
+      "question": "Principal-এর অনুমতি নিয়ে agent যে কাজ করে তাকে ____ authority-এর মধ্যে কাজ বলা হয়।",
+      "answer": "actual",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "Agent-এর কাজের জন্য নির্দিষ্ট পরিস্থিতিতে principal দায়ী হতে পারেন।",
+      "answer": "সত্য",
+      "marks": 1
+    },
+    {
+      "type": "short_answer",
+      "question": "Condition ও warranty-এর একটি পার্থক্য লেখো।",
+      "answer": "Condition চুক্তির প্রধান শর্ত; warranty তুলনামূলকভাবে গৌণ শর্ত।",
+      "marks": 2
+    },
+    {
+      "type": "mcq",
+      "question": "কোনটি goods-এর উদাহরণ?",
+      "options": [
+        "চেয়ার",
+        "শুধু সেবা",
+        "শুধু পরামর্শ",
+        "শুধু দক্ষতা"
+      ],
+      "answer": "চেয়ার",
+      "marks": 1
+    },
+    {
+      "type": "short_answer",
+      "question": "Unpaid seller কাকে বলে?",
+      "answer": "যে বিক্রেতা সম্পূর্ণ মূল্য পাননি বা শর্তসাপেক্ষে মূল্য পাওয়ার কথা থাকলেও তা পাননি, তাকে unpaid seller বলা হয়।",
+      "marks": 2
+    },
+    {
+      "type": "true_false",
+      "question": "চুক্তির শর্ত ভঙ্গ হলে নির্দিষ্ট ক্ষেত্রে ক্ষতিপূরণ দাবি করা যেতে পারে।",
+      "answer": "সত্য",
+      "marks": 1
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "class12-commercial-law-school-01-set-3",
+  "class": "class12",
+  "class_name": "Class 12",
+  "subject": "commercial-law",
+  "subject_name": "Commercial Law",
+  "school_id": "school-01",
+  "school_name": "Model High School",
+  "set_number": 3,
+  "title": "Model Question Set-3",
+  "language": "bn",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "চুক্তির একটি মৌলিক উপাদান কোনটি?",
+      "options": [
+        "প্রস্তাব ও গ্রহণ",
+        "শুধু বিজ্ঞাপন",
+        "শুধু মূল্য",
+        "শুধু লিখিত কাগজ"
+      ],
+      "answer": "প্রস্তাব ও গ্রহণ",
+      "marks": 1
+    },
+    {
+      "type": "mcq",
+      "question": "চুক্তিতে প্রতিদান (consideration) বলতে কী বোঝায়?",
+      "options": [
+        "প্রতিশ্রুতির বিনিময়ে মূল্য",
+        "শুধু লাভ",
+        "শুধু ক্ষতি",
+        "কর"
+      ],
+      "answer": "প্রতিশ্রুতির বিনিময়ে মূল্য",
+      "marks": 1
+    },
+    {
+      "type": "fill_blank",
+      "question": "বৈধ চুক্তির পক্ষগুলির অবশ্যই ____ হওয়ার যোগ্যতা থাকতে হবে।",
+      "answer": "চুক্তি করার",
+      "marks": 1
+    },
+    {
+      "type": "true_false",
+      "question": "প্রতিটি চুক্তিই একটি agreement, কিন্তু প্রতিটি agreement চুক্তি নয়।",
+      "answer": "সত্য",
+      "marks": 1
+    },
+    {
+      "type": "short_answer",
+      "question": "প্রস্তাব (offer) কাকে বলে?",
+      "answer": "কোনো ব্যক্তি অন্য ব্যক্তির সম্মতি লাভের উদ্দেশ্যে নির্দিষ্ট শর্তে কিছু করা বা না করার ইচ্ছা প্রকাশ করলে তাকে প্রস্তাব বলে।",
+      "marks": 2
+    },
+    {
+      "type": "mcq",
+      "question": "অপ্রাপ্তবয়স্কের সঙ্গে করা চুক্তির সাধারণ অবস্থান কী?",
+      "options": [
+        "অকার্যকর",
+        "সবসময় বৈধ",
+        "সবসময় দণ্ডনীয়",
+        "শুধু মৌখিক হলে বৈধ"
+      ],
+      "answer": "অকার্যকর",
+      "marks": 1
+    },
+    {
+      "type": "short_answer",
+      "question": "চুক্তি ও agreement-এর মধ্যে একটি পার্থক্য লেখো।",
+      "answer": "আইন দ্বারা বলবৎযোগ্য agreement-কে contract বলা হয়; সব agreement আইন দ্বারা বলবৎযোগ্য নয়।",
+      "marks": 2
+    },
+    {
+      "type": "mcq",
+      "question": "বিক্রয় চুক্তিতে পণ্য ও মূল্য—এই দুইটি কী?",
+      "options": [
+        "প্রধান বিষয়",
+        "শুধু আনুষঙ্গিক",
+        "অপ্রয়োজনীয়",
+        "দণ্ড"
+      ],
+      "answer": "প্রধান বিষয়",
+      "marks": 1
+    }
+  ]
+}
