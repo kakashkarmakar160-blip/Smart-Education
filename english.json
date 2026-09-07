@@ -1,12 +1,12 @@
 {
-  "class_id": "class7",
-  "semester": "4",
+  "class_id": "class10",
+  "semester": "3",
   "subject": "english",
   "questions": [
     {
       "id": 1,
       "type": "mcq",
-      "question": "English Practice Question 1 — Class 7 Semester 4",
+      "question": "English Practice Question 1 — Class 10 Semester 3",
       "options": [
         "English Option A",
         "English Option B",
@@ -20,7 +20,7 @@
     {
       "id": 2,
       "type": "mcq",
-      "question": "English Practice Question 2 — Class 7 Semester 4",
+      "question": "English Practice Question 2 — Class 10 Semester 3",
       "options": [
         "English Option A",
         "English Option B",
@@ -34,7 +34,7 @@
     {
       "id": 3,
       "type": "mcq",
-      "question": "English Practice Question 3 — Class 7 Semester 4",
+      "question": "English Practice Question 3 — Class 10 Semester 3",
       "options": [
         "English Option A",
         "English Option B",
@@ -48,7 +48,7 @@
     {
       "id": 4,
       "type": "mcq",
-      "question": "English Practice Question 4 — Class 7 Semester 4",
+      "question": "English Practice Question 4 — Class 10 Semester 3",
       "options": [
         "English Option A",
         "English Option B",
@@ -62,7 +62,7 @@
     {
       "id": 5,
       "type": "mcq",
-      "question": "English Practice Question 5 — Class 7 Semester 4",
+      "question": "English Practice Question 5 — Class 10 Semester 3",
       "options": [
         "English Option A",
         "English Option B",
@@ -76,7 +76,7 @@
     {
       "id": 6,
       "type": "mcq",
-      "question": "English Practice Question 6 — Class 7 Semester 4",
+      "question": "English Practice Question 6 — Class 10 Semester 3",
       "options": [
         "English Option A",
         "English Option B",
@@ -90,7 +90,7 @@
     {
       "id": 7,
       "type": "mcq",
-      "question": "English Practice Question 7 — Class 7 Semester 4",
+      "question": "English Practice Question 7 — Class 10 Semester 3",
       "options": [
         "English Option A",
         "English Option B",
@@ -104,7 +104,7 @@
     {
       "id": 8,
       "type": "mcq",
-      "question": "English Practice Question 8 — Class 7 Semester 4",
+      "question": "English Practice Question 8 — Class 10 Semester 3",
       "options": [
         "English Option A",
         "English Option B",
@@ -118,7 +118,7 @@
     {
       "id": 9,
       "type": "mcq",
-      "question": "English Practice Question 9 — Class 7 Semester 4",
+      "question": "English Practice Question 9 — Class 10 Semester 3",
       "options": [
         "English Option A",
         "English Option B",
@@ -132,7 +132,7 @@
     {
       "id": 10,
       "type": "mcq",
-      "question": "English Practice Question 10 — Class 7 Semester 4",
+      "question": "English Practice Question 10 — Class 10 Semester 3",
       "options": [
         "English Option A",
         "English Option B",
@@ -146,7 +146,7 @@
     {
       "id": 11,
       "type": "mcq",
-      "question": "English Practice Question 11 — Class 7 Semester 4",
+      "question": "English Practice Question 11 — Class 10 Semester 3",
       "options": [
         "English Option A",
         "English Option B",
@@ -160,7 +160,7 @@
     {
       "id": 12,
       "type": "mcq",
-      "question": "English Practice Question 12 — Class 7 Semester 4",
+      "question": "English Practice Question 12 — Class 10 Semester 3",
       "options": [
         "English Option A",
         "English Option B",
@@ -174,7 +174,7 @@
     {
       "id": 13,
       "type": "mcq",
-      "question": "English Practice Question 13 — Class 7 Semester 4",
+      "question": "English Practice Question 13 — Class 10 Semester 3",
       "options": [
         "English Option A",
         "English Option B",
@@ -188,7 +188,7 @@
     {
       "id": 14,
       "type": "mcq",
-      "question": "English Practice Question 14 — Class 7 Semester 4",
+      "question": "English Practice Question 14 — Class 10 Semester 3",
       "options": [
         "English Option A",
         "English Option B",
@@ -202,7 +202,7 @@
     {
       "id": 15,
       "type": "mcq",
-      "question": "English Practice Question 15 — Class 7 Semester 4",
+      "question": "English Practice Question 15 — Class 10 Semester 3",
       "options": [
         "English Option A",
         "English Option B",
@@ -216,7 +216,7 @@
     {
       "id": 16,
       "type": "mcq",
-      "question": "English Practice Question 16 — Class 7 Semester 4",
+      "question": "English Practice Question 16 — Class 10 Semester 3",
       "options": [
         "English Option A",
         "English Option B",
@@ -230,7 +230,7 @@
     {
       "id": 17,
       "type": "mcq",
-      "question": "English Practice Question 17 — Class 7 Semester 4",
+      "question": "English Practice Question 17 — Class 10 Semester 3",
       "options": [
         "English Option A",
         "English Option B",
@@ -244,7 +244,7 @@
     {
       "id": 18,
       "type": "mcq",
-      "question": "English Practice Question 18 — Class 7 Semester 4",
+      "question": "English Practice Question 18 — Class 10 Semester 3",
       "options": [
         "English Option A",
         "English Option B",
@@ -258,7 +258,7 @@
     {
       "id": 19,
       "type": "mcq",
-      "question": "English Practice Question 19 — Class 7 Semester 4",
+      "question": "English Practice Question 19 — Class 10 Semester 3",
       "options": [
         "English Option A",
         "English Option B",
@@ -272,7 +272,7 @@
     {
       "id": 20,
       "type": "mcq",
-      "question": "English Practice Question 20 — Class 7 Semester 4",
+      "question": "English Practice Question 20 — Class 10 Semester 3",
       "options": [
         "English Option A",
         "English Option B",
