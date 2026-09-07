@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="bn"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Computer Question Paper Editor</title><link rel="stylesheet" href="css/style.css"><link rel="stylesheet" href="css/computer-question-paper.css"></head>
+<body>
+<header class="topbar"><a href="computer-room.html" class="icon-btn" aria-label="Back">←</a><div class="brand">Computer Question Paper</div><div class="top-actions"><button class="icon-btn" id="themeBtn">☾</button><div class="avatar">AK</div></div></header>
+<main class="computer-editor">
+<section class="create-banner"><div><p class="eyebrow">CREATE NEW</p><h1>Computer Question Paper</h1><p>Add questions, set marks and manage each subject. সর্বোচ্চ ২০টি প্রশ্ন।</p></div><div class="banner-art">📚</div></section>
+<section class="selection-panel card">
+  <div class="field"><label for="editorClass">Class</label><select id="editorClass"><option value="5">Class 5</option><option value="6">Class 6</option><option value="7">Class 7</option><option value="8">Class 8</option><option value="9">Class 9</option><option value="10">Class 10</option><option value="11">Class 11</option><option value="12">Class 12</option></select></div>
+  <div class="field"><label for="editorSemester">Semester</label><select id="editorSemester"><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option></select></div>
+  <div class="selection-note"><strong>যে Class + Semester নির্বাচন করবেন</strong><span>সেই নির্দিষ্ট Question Paper-ই Edit হবে।</span></div>
+</section>
+<section class="subject-tabs card" id="subjectTabs"></section>
+<section class="editor-toolbar card"><div><p class="eyebrow">QUESTION BANK</p><h2 id="subjectTitle">বাংলা</h2><p class="muted" id="questionCount">0 / 20 Questions</p></div><button id="addQuestion" class="primary">＋ Add Question</button></section>
+<section id="questionList" class="question-list"></section>
+<div class="bottom-actions"><button id="savePaper" class="save-btn">SAVE</button><a href="computer-room.html" class="outline">Back to Room</a><span id="saveMsg" class="success-text"></span></div>
+</main>
+<div id="editorModal" class="modal hidden"><div class="modal-card question-modal"><button id="closeEditor" class="close">×</button><p class="eyebrow" id="modalEyebrow">QUESTION 1</p><h2 id="modalTitle">Edit Question</h2><div class="form-grid"><div class="field"><label>Question Type</label><select id="qType"><option value="mcq">MCQ</option><option value="short">Short Answer</option><option value="true_false">True / False</option><option value="fill_blank">Fill in the Blank</option><option value="paragraph">Paragraph</option><option value="essay">Essay</option></select></div><div class="field"><label>Marks</label><input id="qMarks" type="number" min="1" max="20" value="1"></div><div class="field full"><label>Question *</label><textarea id="qText" rows="4" maxlength="1000" placeholder="Type your question..."></textarea></div></div><div id="qExtra"></div><div class="modal-actions"><button id="cancelEditor" class="outline">Cancel</button><button id="saveEditor" class="primary">Save Question</button></div><p id="editorError" class="danger"></p></div></div>
+<script src="js/app.js"></script><script src="js/computer-question-paper.js"></script>
+</body></html>

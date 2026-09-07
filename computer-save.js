@@ -1,0 +1,1 @@
+document.getElementById('computerForm').addEventListener('submit',e=>{e.preventDefault();localStorage.setItem('computerProfile',JSON.stringify({name:computerStudent.value,id:computerId.value,className:computerClass.value,semester:computerSemester.value}));location.href='computer-room.html';});

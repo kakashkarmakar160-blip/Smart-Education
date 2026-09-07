@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="bn"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Teacher Question</title><link rel="stylesheet" href="css/style.css"><link rel="stylesheet" href="css/teacher-question.css"></head>
+<body>
+<header class="topbar">
+  <a href="teacher-save.html" class="icon-btn" aria-label="Back">←</a>
+  <div class="brand">Create Question</div>
+  <div class="top-actions"><button class="icon-btn" id="themeBtn">☾</button><div class="avatar">AK</div></div>
+</header>
+<main class="teacher-editor">
+  <section class="editor-heading">
+    <div><p class="eyebrow">TEACHER • QUESTION BANK</p><h1>Create Question</h1><p class="muted">Add a new question to your question bank</p></div>
+    <button id="saveQuestion" class="primary">▣ Save Question</button>
+  </section>
+
+  <section class="type-section card">
+    <h3>1. Select Question Type &amp; Marks</h3>
+    <div class="type-grid">
+      <button class="type-card active" data-type="mcq" type="button"><b>◉ ☷</b><strong>MCQ</strong><small>Multiple Choice</small><label>Marks <select class="marks" data-for="mcq"><option>1</option><option selected>5</option><option>10</option></select></label></button>
+      <button class="type-card" data-type="long" type="button"><b>▧</b><strong>Long Question</strong><small>Descriptive Answer</small><label>Marks <select class="marks" data-for="long"><option>5</option><option selected>10</option><option>15</option></select></label></button>
+      <button class="type-card" data-type="fill_blank" type="button"><b>≡</b><strong>Fill in the Blanks</strong><small>Complete the blanks</small><label>Marks <select class="marks" data-for="fill_blank"><option selected>2</option><option>5</option><option>10</option></select></label></button>
+      <button class="type-card" data-type="paragraph" type="button"><b>§</b><strong>Paragraph Writing</strong><small>Write a paragraph</small><label>Marks <select class="marks" data-for="paragraph"><option>5</option><option selected>10</option><option>15</option></select></label></button>
+      <button class="type-card" data-type="true_false" type="button"><b>✓×</b><strong>True / False</strong><small>True or False</small><label>Marks <select class="marks" data-for="true_false"><option selected>2</option><option>5</option></select></label></button>
+      <button class="type-card" data-type="match" type="button"><b>⊕</b><strong>Match the Following</strong><small>Match items</small><label>Marks <select class="marks" data-for="match"><option selected>5</option><option>10</option></select></label></button>
+    </div>
+  </section>
+
+  <div class="editor-columns">
+    <section class="form-card">
+      <h3>2. Enter Question Details</h3>
+      <div class="form-grid">
+        <div class="field"><label>Subject <em>*</em></label><select id="subject"><option value="বাংলা">Bangla</option><option value="English">English</option><option value="Mathematics">Mathematics</option><option value="Science">Science</option><option value="Commercial Law">Commercial Law</option></select></div>
+        <div class="field"><label>Class / Semester <em>*</em></label><select id="classSemester"><option>Class 5</option><option>Class 6</option><option>Class 7</option><option>Class 8</option><option>Class 12 - 1st Semester</option><option>Class 12 - 2nd Semester</option><option>Class 12 - 3rd Semester</option></select></div>
+        <div class="field full"><label>Question <em>*</em></label><textarea id="question" rows="5" maxlength="1000" placeholder="Type your question here..."></textarea><small id="questionCount">0 / 1000</small></div>
+      </div>
+
+      <div id="dynamicFields"></div>
+
+      <div class="field"><label>Correct Answer</label><select id="correctAnswer"></select></div>
+      <div class="field explanation-field"><label>Explanation (Optional)</label><textarea id="explanation" rows="4" maxlength="1000" placeholder="Add explanation for the correct answer (optional)..."></textarea><small id="explanationCount">0 / 1000</small></div>
+
+      <div class="action-row editor-actions"><button id="resetQuestion" class="outline" type="button">↻ Reset</button><button id="saveQuestionBottom" class="primary" type="button">▣ Save Question</button></div>
+    </section>
+
+    <aside class="preview-panel card">
+      <div class="preview-head"><span>▣ Question Summary</span><span id="draftStatus" class="tag">Draft</span></div>
+      <div class="summary-list"><div><span>Type</span><b id="summaryType">MCQ</b></div><div><span>Marks</span><b id="summaryMarks">5</b></div><div><span>Subject</span><b id="summarySubject">Bangla</b></div><div><span>Class / Semester</span><b id="summaryClass">Class 5</b></div></div>
+      <div class="mini-paper"><div id="miniQuestion">1) প্রশ্নটি এখানে দেখা যাবে।</div><div id="miniOptions"></div></div>
+    </aside>
+  </div>
+</main>
+<script src="js/app.js"></script><script src="js/teacher-question.js"></script>
+</body></html>

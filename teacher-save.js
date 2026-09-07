@@ -1,0 +1,1 @@
+document.getElementById('teacherForm').addEventListener('submit',e=>{e.preventDefault();localStorage.setItem('teacherProfile',JSON.stringify({name:teacherName.value,phone:teacherPhone.value,className:teacherClass.value,semester:teacherSemester.value}));location.href='teacher-question.html';});

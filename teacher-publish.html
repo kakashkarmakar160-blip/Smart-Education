@@ -1,0 +1,11 @@
+<!doctype html><html lang="bn"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Teacher Publish</title><link rel="stylesheet" href="css/style.css"><link rel="stylesheet" href="css/role-pages.css"><link rel="stylesheet" href="css/teacher-publish.css"></head><body>
+<header class="topbar"><a href="teacher-preview.html" class="icon-btn">←</a><div class="brand">Publish Question Paper</div><div class="top-actions"><button class="icon-btn" id="themeBtn">☾</button><div class="avatar">AK</div></div></header>
+<main class="role-wrap"><section class="publish-layout">
+<div class="form-card"><p class="eyebrow">FINAL STEP</p><h1>Publish Question Set</h1><p class="muted">Publish করার আগে নাম ও password/code সেট করো।</p>
+<div class="field"><label>Question Set Name</label><input id="setName" value="Teacher Model Question Set-1"></div>
+<div class="field"><label>School / Teacher Name</label><input id="target" placeholder="Teacher / School Name"></div>
+<div class="field"><label>Student Access Password</label><div class="password-row"><input id="accessCode" maxlength="12" placeholder="যেমন: AK2026"><button id="generateCode" class="outline" type="button">Generate</button></div><small>Student এই code দিলে published paper দেখতে পারবে।</small></div>
+<div class="info-banner"><b id="count">0</b> questions ready to publish.</div>
+<div class="action-row"><button id="publish" class="primary">✓ Publish Question Paper</button><a href="teacher-preview.html" class="outline">Back to Preview</a></div><p id="msg" class="success"></p></div>
+<aside class="publish-help card"><div class="big-lock">🔐</div><h2>Student Access</h2><p>Publish করার পরে এই password/code ছাত্রদের দাও। তারা Student → Teacher Paper-এ code দিয়ে paper খুলতে পারবে।</p><div id="publishedCode" class="published-code hidden"></div><button id="copyCode" class="outline hidden" type="button">Copy Password</button></aside>
+</section></main><script src="js/app.js"></script><script src="js/teacher-publish.js"></script></body></html>
