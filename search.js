@@ -3,7 +3,7 @@ const searchInput=document.getElementById('searchInput');
 let classesData=[];
 const icons=['📘','📗','📙','📕','🎓','📚','📒','🧮'];
 async function initHome(){
- classesData=await loadJSON('../data/classes.json');
+ classesData=await loadJSON('data/classes.json');
  render(classesData);
  searchInput?.addEventListener('input',()=>{const q=searchInput.value.toLowerCase().trim();render(classesData.filter(c=>(c.name+' '+c.id+' '+c.subjects.join(' ')).toLowerCase().includes(q)));});
 }

@@ -1,6 +1,6 @@
 let computerData=null;
 async function start(){
-  computerData=await loadJSON("../data/computer/questions.json");
+  computerData=await loadJSON("data/computer/questions.json");
   computerData.questions=(computerData.questions||[]).slice(0,20);
   window.computerData=computerData;
   const box=document.getElementById("computerQuestions");

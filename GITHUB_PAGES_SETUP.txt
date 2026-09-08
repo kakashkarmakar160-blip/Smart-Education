@@ -1,0 +1,3 @@
+GitHub Pages: publish this repository root. index.html is now at the repository root.
+If using Settings > Pages, choose Deploy from branch -> main -> / (root).
+Do not use /frontend as the Pages source.
