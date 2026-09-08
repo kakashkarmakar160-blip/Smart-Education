@@ -32,7 +32,7 @@ function cloneQuestions(source){return (source||[]).slice(0,MAX).map(q=>({...q,o
 async function ensureBanks(){
   let b=banks();
   let base=[];
-  try{const source=await loadJSON('data/computer/questions.json');base=cloneQuestions(source.questions||[])}catch(e){console.error(e)}
+  try{const source=await loadJSON('../data/computer/questions.json');base=cloneQuestions(source.questions||[])}catch(e){console.error(e)}
   if(!base.length)base=[{type:'mcq',question:'নতুন প্রশ্ন তৈরি করুন।',options:['Option A','Option B','Option C','Option D'],answer:'Option A',marks:1}];
   const old=readJSON('computerQuestionBanks',{});
   for(let c=5;c<=12;c++){
