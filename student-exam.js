@@ -5,8 +5,8 @@ async function getData(){
   if(teacher){
     data=JSON.parse(teacher);
   }else{
-    const file=params().get('file')||'data/class5/bangla/school-01.json';
-    try{data=await loadJSON(file)}catch{data=await loadJSON('data/class5/bangla/school-01.json');}
+    const file=params().get('file')||'../data/class5/bangla/school-01.json';
+    try{data=await loadJSON(file)}catch{data=await loadJSON('../data/class5/bangla/school-01.json');}
   }
   document.getElementById('examTitle').textContent=data.name||data.title||'Practice';
   render();startTimer();

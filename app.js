@@ -26,10 +26,10 @@ function params(){ return new URLSearchParams(location.search); }
 async function initRoles(){
   const grid=document.getElementById('roleGrid');
   if(!grid) return;
-  const roles=await loadJSON('data/roles.json');
+  const roles=await loadJSON('../data/roles.json');
   const html=roles.map(r=>`
     <button class="role-card" data-role="${r.id}" type="button">
-      <img src="${r.image}" alt="${escapeHtml(r.name)}">
+      <img src="../${r.image}" alt="${escapeHtml(r.name)}">
       <div><h3>${escapeHtml(r.name)}</h3><p>${escapeHtml(r.description)}</p></div>
       <span>→</span>
     </button>`).join('');

@@ -16,11 +16,11 @@
 <div class="bottom-actions"><button id="savePaper" class="save-btn">SAVE</button><a href="computer-room.html" class="outline">Back to Room</a><span id="saveMsg" class="success-text"></span></div>
 </main>
 <div id="editorModal" class="modal hidden"><div class="modal-card question-modal"><button id="closeEditor" class="close">×</button><p class="eyebrow" id="modalEyebrow">QUESTION 1</p><h2 id="modalTitle">Edit Question</h2><div class="form-grid"><div class="field"><label>Question Type</label><select id="qType"><option value="mcq">MCQ</option><option value="short">Short Answer</option><option value="true_false">True / False</option><option value="fill_blank">Fill in the Blank</option><option value="paragraph">Paragraph</option><option value="essay">Essay</option></select></div><div class="field"><label>Marks</label><input id="qMarks" type="number" min="1" max="20" value="1"></div><div class="field full"><label>Question *</label><textarea id="qText" rows="4" maxlength="1000" placeholder="Type your question..."></textarea></div></div><div id="qExtra"></div><div class="modal-actions"><button id="cancelEditor" class="outline">Cancel</button><button id="saveEditor" class="primary">Save Question</button></div><p id="editorError" class="danger"></p></div></div>
-<script src="js/app.js"></script><script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script src="js/app.js"></script><script src="js/computer-question-paper.js"></script>
 
 
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 <script src="js/supabase.js"></script>
-<script src="js/computer-question-paper.js"></script>
 
 </body>
 </html>
