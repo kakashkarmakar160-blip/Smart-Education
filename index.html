@@ -1,58 +1,5 @@
-<!doctype html>
-<html lang="bn">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>Smart Education</title>
-  <link rel="stylesheet" href="css/style.css">
-  <link rel="stylesheet" href="css/home.css">
-</head>
-<body>
-<header class="topbar">
-  <button class="icon-btn" id="menuBtn" aria-label="Open roles">🎓</button>
-  <div class="brand">Smart Education</div>
-  <div class="top-actions">
-    <button class="icon-btn" id="themeBtn" aria-label="Theme">☾</button>
-    <button class="icon-btn" id="langBtn" type="button">বাংলা</button>
-    <button class="avatar avatar-btn" id="profileBtn" aria-label="Profile">AK</button>
-  </div>
-</header>
+<!doctype html><html lang="bn"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Smart Education Admin</title><link rel="stylesheet" href="css/admin.css"></head><body><main><h1>Smart Education — Admin</h1><p>এই lightweight admin starter-এ Data folder-এর JSON files manage করার নির্দেশনা রাখা হয়েছে।</p><div class="card"><h2>How to add a new Model Set</h2><ol><li>একটি নতুন JSON file তৈরি করুন।</li><li>সঠিক class/subject folder-এ রাখুন।</li><li>school_id ও school_name ঠিক রাখুন।</li><li>questions array-এ exam questions যোগ করুন।</li></ol></div><div class="card"><h2>Supported types</h2><p>mcq • fill_blank • true_false • short_answer</p><p>MCQ question-এ <b>solution.enabled=true</b> এবং <b>solution.steps</b> দিলে Exam interface-এ Solution button দেখা যাবে।</p></div><a href="../frontend/index.html">← Website খুলুন</a></main>
 
-<main class="container">
-  <section class="hero">
-    <div>
-      <p class="eyebrow">SMART LEARNING • MODEL QUESTIONS • PRACTICE</p>
-      <h1>Let’s start a <span>smart class</span><br>with AKS</h1>
-      <p>Class 5–8 থেকে Class 12 পর্যন্ত সাজানো প্রশ্ন, Model Set, Practice এবং Solution এক জায়গায়।</p>
-    </div>
-    <div class="hero-art">🎓<div>📚</div><small>✦ ✦</small></div>
-  </section>
-
-  <section class="role-section">
-    <div class="section-head"><div><p class="eyebrow">CHOOSE YOUR MODE</p><h2>Student, Teacher or Computer</h2></div></div>
-    <div id="roleGrid" class="role-grid"></div>
-  </section>
-
-  <div class="search-wrap">
-    <span>⌕</span>
-    <input id="searchInput" placeholder="Search your class, subject or school...">
-  </div>
-
-  <section>
-    <div class="section-head">
-      <div><p class="eyebrow">EXPLORE</p><h2>Choose your class</h2></div>
-      <div class="home-paper-actions"><span id="resultCount" class="muted"></span><button id="addPaper2Btn" class="add-paper2-btn" type="button">ADD QUESTION PAPER 2</button></div>
-    </div>
-    <div id="classGrid" class="class-grid"></div>
-  </section>
-</main>
-
-<div id="rolePanel" class="side-overlay hidden"><div class="side-panel"><button class="close" id="closeRolePanel">×</button><p class="eyebrow">SMART EDUCATION</p><h2>Choose a mode</h2><div id="panelRoleGrid"></div></div></div>
-<div id="profilePanel" class="side-overlay hidden"><div class="side-panel profile-panel"><button class="close" id="closeProfilePanel">×</button><div class="profile-avatar">AK</div><h2>Akash Karmakar</h2><p class="muted">Smart Education Profile</p><div id="profileRoleGrid"></div></div></div>
-<div id="paper2Modal" class="side-overlay hidden"><div class="side-panel"><button class="close" id="closePaper2">×</button><p class="eyebrow">PRACTICE QUESTION PAPER</p><h2>ADD QUESTION PAPER 2</h2><p class="muted">Practice section-এর প্রশ্ন তৈরি বা Edit করতে password দিন।</p><label class="paper2-label">Password<input id="paper2Password" type="password" placeholder="Enter password"></label><button id="unlockPaper2" class="primary full">Unlock & Continue →</button><p id="paper2Msg" class="danger"></p></div></div>
-
-<script src="js/app.js"></script>
-<script src="js/search.js"></script>
 
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 <script src="js/supabase.js"></script>
